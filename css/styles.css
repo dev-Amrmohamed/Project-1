@@ -119,7 +119,10 @@ a {
 }
 
 
-
+.navbar-list a i:hover {
+    color: #FFFFFF;
+    background-color: #4fb919;
+}
 
 .home {
     height: 90vh;
